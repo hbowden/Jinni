@@ -16,6 +16,6 @@
     "express": "^4.15.2",
     "react": "^15.5.4",
     "react-addons-perf": "^15.4.2",
-    "react-dom": "^15.5.4"
+    "react-dom": "^16.0.1"
   }
 }
